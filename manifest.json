@@ -1,0 +1,10 @@
+﻿{
+	"name": "HarderCombatShrines",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/ThunderWaffle/HarderCombatShrines",
+	"description": "Changes combat shrines to be repeatable and increase in credits each time ",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.1801",
+		"tristanmcpherson-R2API-3.0.71"
+	]
+}
