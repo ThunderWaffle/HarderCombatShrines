@@ -9,7 +9,6 @@ namespace HarderCombatShrines
 {
     [BepInDependency(R2API.R2API.PluginGUID)]
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
-    [R2APISubmoduleDependency(nameof(DirectorAPI))]
 	
     public class HarderCombatShrines : BaseUnityPlugin
 	{
@@ -17,7 +16,7 @@ namespace HarderCombatShrines
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "TJT";
         public const string PluginName = "HarderCombatShrines";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         public void Awake()
         {

@@ -28,4 +28,6 @@ I can be reached on discord at TJT#0001.  I'm also in the Risk of Rain 2 Modding
 
 ### Changes
 
+`1.0.1` - Repack/Recompile against SOTV
+
 `1.0.0` - Initial release.
